@@ -1,0 +1,6 @@
+facenet-pytorch>=2.5.3
+git+https://github.com/openai/CLIP.git
+adversarial-robustness-toolbox>=1.17.1
+ftfy
+regex
+tqdm
